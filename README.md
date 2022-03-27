@@ -1,0 +1,2 @@
+# oneDemensionalDataVisulizor
+将一维数据进行可视化的娱乐向方案
