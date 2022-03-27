@@ -1,5 +1,5 @@
 # oneDemensionalDataVisulizor  
-【与世界分享你创造的美好】的参赛作品
+【与世界分享你创造的美好】的参赛作品  
 将一维数据进行可视化的娱乐向方案，视频讲解版： https://www.bilibili.com/video/BV1ca41147ZX 
 
 所需要的库：
